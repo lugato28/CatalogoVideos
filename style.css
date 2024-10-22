@@ -13,6 +13,6 @@ section {
     display: flex;
     justify-content: center;
 }
-div{
+.texto{
     margin-right: 5%;
 }
