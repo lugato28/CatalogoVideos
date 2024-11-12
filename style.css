@@ -3,9 +3,9 @@ body {
     font-size: x-large;
     font-weight: bolder;
     text-align: justify;
+    font-family: "Chakra Petch",sans-serif;
 }
 header{
-    font-family: "Chakra Petch",sans-serif;
     font-size: 40px;
     padding: 20px;
     font-size: 32px;
