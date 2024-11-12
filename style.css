@@ -26,6 +26,10 @@ section {
     height: 200px;
     opacity: 0.5;
 }
+.categoria-videos img:hover{
+opacity: 1.0;
+border: 1px solid rgb(240, 101, 8);
+}
 .categoria-videos{
     display: flex;
     overflow-x: auto;
