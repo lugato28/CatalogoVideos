@@ -4,6 +4,7 @@ body {
     font-weight: bolder;
     text-align: justify;
     font-family: "Chakra Petch",sans-serif;
+    border-bottom: solid 2px rgb(246, 89, 5);
     }
     header{        
         padding: 20px;
@@ -18,6 +19,7 @@ section {
     padding-top: 5%;
     display: flex;
     justify-content: center;
+    border-bottom: solid 2px rgb(246, 89, 5);
 }
 .texto{
     margin-right: 80px;
