@@ -1,6 +1,5 @@
 body {
     background-color: black;
-    color: rgb(236, 77, 4);
     font-size: x-large;
     font-weight: bolder;
     text-align: justify;
@@ -8,6 +7,10 @@ body {
 header{
     font-family: "Chakra Petch",sans-serif;
     font-size: 40px;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(236, 77, 4);
+    border-bottom: solid 2px rgb(243, 76, 5);
 }
 section {
     background-color: rgb(244, 244, 247);
