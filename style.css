@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(17, 17, 17);
+    background-color: rgb(246, 103, 8);
     font-size: x-large;
     font-weight: bolder;
     text-align: justify;
@@ -8,8 +8,8 @@ body {
     header{        
         padding: 20px;
         font-size: 32px;
-        color: rgb(242, 106, 8);
-        border-bottom: solid 2px rgb(248, 92, 9);
+        color: rgb(15, 14, 14);
+        border-bottom: solid 2px rgb(246, 89, 5);
     }
 section {
     background-color: rgb(244, 244, 247);
